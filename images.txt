@@ -19,3 +19,4 @@ cnk3x/xunlei:latest
 syncthing/syncthing:latest
 portainer/portainer:latest
 sulinggg/openwrt
+6053537/portainer-ce
