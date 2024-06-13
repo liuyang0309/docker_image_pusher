@@ -5,3 +5,11 @@ xhofe/alist
 bestoray/pgyvpn
 zerotier/zerotier
 nginx:latest
+portainer/portainer-ce
+nextcloud
+johngong/baidunetdisk:latest
+lissy93/dashy:latest
+ljdyw/ubuntu-novnc:latest
+xhofe/alist:latest
+snowdreamtech/frps
+redis
