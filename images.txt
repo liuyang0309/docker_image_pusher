@@ -13,3 +13,6 @@ ljdyw/ubuntu-novnc:latest
 xhofe/alist:latest
 snowdreamtech/frps
 redis
+mysql
+ubuntu
+xunlei
