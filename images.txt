@@ -16,3 +16,4 @@ redis
 mysql
 ubuntu
 cnk3x/xunlei:latest
+syncthing/syncthing:latest
