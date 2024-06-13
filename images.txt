@@ -1,5 +1,7 @@
+hello-world:latest
 alpine:3.19.1
 linkease/ddnsto
 xhofe/alist
 bestoray/pgyvpn
 zerotier/zerotier
+nginx:latest
