@@ -15,4 +15,4 @@ snowdreamtech/frps
 redis
 mysql
 ubuntu
-xunlei
+cnk3x/xunlei:latest
