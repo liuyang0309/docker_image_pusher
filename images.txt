@@ -17,3 +17,5 @@ mysql
 ubuntu
 cnk3x/xunlei:latest
 syncthing/syncthing:latest
+portainer/portainer:latest
+sulinggg/openwrt
