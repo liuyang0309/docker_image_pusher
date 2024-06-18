@@ -1,6 +1,6 @@
 hello-world:latest
 alpine:3.19.1
-linkease/ddnsto--platform=armv7l
+--platform=armv7l linkease/ddnsto
 xhofe/alist
 bestoray/pgyvpn
 zerotier/zerotier
@@ -19,4 +19,4 @@ cnk3x/xunlei:latest
 syncthing/syncthing:latest
 portainer/portainer:latest
 sulinggg/openwrt
-6053537/portainer-ce--platform=armv7l
+--platform=armv7l 6053537/portainer-ce
